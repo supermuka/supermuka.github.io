@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title></title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+</head>
+<body>
+<div align="left"><font size="2"><b>Processo de instala&#231;&#227;o do Gestor IDSS (e de outras ferramentas) para consultas futuras.</b></font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><b>Gestor IDSS</b></font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">Criar um diret&#243;rio c:\app</font></div>
+<div align="left"><font size="2">Criar um subdiret&#243;rio oracle (c:\app\oracle) e descompactar o conte&#250;do do arquivo 
+instantclient-basiclite-nt-19.6.0.0.0dbru.zip dentro dele</font></div>
+<div align="left"><font size="2">Copiar os arquivos tnsnames.ora e sqlnet.ora para \oracle\instant</font></div>
+<div align="left"><font size="2">Copiar a pasta GestorIDSS para c:\app</font></div>
+<div align="left"><font size="2">Criar um subdiret&#243;rio cloud-connet (C:\App\cloud-connect) e copiar a pasta G:\Drives 
+compartilhados\BlendusSEG\wallet_dblend3 para ele</font></div>
+<div align="left"><font size="2">Criar duas vari&#225;veis de Ambiente, em Vari&#225;veis do Sistema: ORACLE_HOME e TNS_ADMIN, ambas com valor igual 
+a c:\app\oracle\instant</font></div>
+<div align="left"><font size="2">Falta ainda criar um usu&#225;rio pra ti no banco de dados (o @Flavio Exterkoetter j&#225; est&#225; providenciando). Feito isto, iremos 
+alterar o arquivo GestorIDSS.ini na tua m&#225;quina</font></div>
+<div align="left"><font size="2">Ap&#243;s isto, o Gestor IDSS j&#225; deve executar (usu&#225;rio Samuel, senha Hoje.1608). A senha pode ser alterada depois em 
+Arquivo, Alterar Senha.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><b>Aplicativos de Desenvolvimento</b></font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">SQL Developer: basta descompactar o arquivo sqldeveloper-21.2.1.204.1703-x64.zip em algum canto e executar 
+sqldeveloper.exe</font></div>
+<div align="left"><font size="2">SQL Navigator: n&#227;o tenho certeza se o SQL Navigator for Oracle 7.1.0 Development Suite Commercial 64bit funciona 
+direto, sem a chave. Por via das d&#250;vidas, instala o SQL Navigator for Oracle 6.3.0 Commercial primeiro e informa a 
+chave do arquivo Licen&#231;a SQL Navigator. Em seguida, executa o 7.1.0. Se der certo, d&#225; at&#233; para desinstalar o 6.3.0 
+depois</font></div>
+<div align="left"><font size="2">ERwin:Descompactar o arquivo CAEDM73pr10-b2496a e rodar o execut&#225;vel. As keys est&#227;o dentro do txt.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><b>Dados Acesso</b></font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">https://console.sa-saopaulo-1.oraclecloud.com</font></div>
+<div align="left"><font size="2">Cloud Tenant: blendus</font></div>
+<div align="left"><font size="2">User: samuel@blendus.com.br</font></div>
+</body>
+</html>

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4.1.2:1", "", "Administrativas", "EARoot/EA4/EA1/EA2/EA186.htm", "188.png", "41", "0", "", "Custom diagram0","{C0E52152-2FC9-4480-BC1C-EA271373D7F9}");
+tocTab[tocTab.length] = new Array("0.4.1.2:2", "", "IU001 - Login", "EARoot/EA4/EA1/EA2/EA189.htm", "11.png", "E785", "0", "", "Screen0","{DFB6421E-99FB-41e4-9FED-DA57A1B63BEF}");
+tocTab[tocTab.length] = new Array("0.4.1.2:3", "", "IU002 - Novo Usuário", "EARoot/EA4/EA1/EA2/EA190.htm", "11.png", "E786", "0", "", "Screen0","{62E88246-25BC-4296-854E-2A3A1C0B574A}");

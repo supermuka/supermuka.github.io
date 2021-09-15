@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4.1:1", "", "Interface de Usuário - Protótipo", "EARoot/EA4/EA1/EA178.htm", "188.png", "39", "0", "", "Custom diagram0","{77440E21-5605-4828-8AFC-EB973625D0E5}");
+tocTab[tocTab.length] = new Array("0.4.1.1", "1", "Principais", "EARoot/EA4/EA1/EA1/EA185.htm", "4.png", "", "", "{3E9B2409-E64B-4089-B748-0E746314A8CC}", "Package");
+tocTab[tocTab.length] = new Array("0.4.1.2", "1", "Administrativas", "EARoot/EA4/EA1/EA2/EA188.htm", "4.png", "", "", "{ACEDBD86-D9C7-4ebb-8F62-6A8CC22828F9}", "Package");

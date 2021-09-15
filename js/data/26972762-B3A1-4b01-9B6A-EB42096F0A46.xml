@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.4.3:1", "", "Oracle", "EARoot/EA4/EA3/EA205.htm", "175.png", "68", "0", "", "Logical diagram0","{5198A1D2-F164-4576-87D3-3D30B6CE85BC}");
+tocTab[tocTab.length] = new Array("0.4.3.1", "1", "«Database» Oracle", "EARoot/EA4/EA3/EA1/EA213.htm", "4.png", "", "", "{9E20EC75-A1F6-4366-94AB-CF73FE0B6D29}", "Package");

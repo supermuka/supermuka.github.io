@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.3.3:1", "", "Modelo de Domínio", "EARoot/EA3/EA3/EA164.htm", "175.png", "25", "0", "", "Logical diagram0","{9E407535-DB56-4c68-A2FB-F0EC69468F23}");
+tocTab[tocTab.length] = new Array("0.3.3:2", "", "Operadora", "EARoot/EA3/EA3/EA169.htm", "5.png", "E318", "0", "", "Class0","{7646411B-1159-499b-B485-BAEC6FF9DEF1}");
+tocTab[tocTab.length] = new Array("0.3.3:3", "", "Usuario", "EARoot/EA3/EA3/EA170.htm", "5.png", "E306", "0", "", "Class0","{3FAFB36F-39B6-41dd-B3E0-27179D385A96}");
+tocTab[tocTab.length] = new Array("0.3.3:4", "", "UsuarioAcesso", "EARoot/EA3/EA3/EA171.htm", "5.png", "E319", "0", "", "Class0","{80A85ACC-A0A2-4705-BCBB-3E36A98831F8}");
+tocTab[tocTab.length] = new Array("0.3.3:5", "", "UsuarioIdentidade", "EARoot/EA3/EA3/EA172.htm", "5.png", "E308", "0", "", "Class0","{A04CCA7E-83A6-49aa-916C-98D8FD070FBD}");
+tocTab[tocTab.length] = new Array("0.3.3:6", "", "UsuarioPerfil", "EARoot/EA3/EA3/EA173.htm", "5.png", "E307", "0", "", "Class0","{B1027863-FFF2-4d8c-992B-EA66B37F35C0}");
